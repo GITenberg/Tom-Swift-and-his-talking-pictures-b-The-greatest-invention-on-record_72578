@@ -1,0 +1,27 @@
+_repo: Tom-Swift-and-his-talking-pictures-b-The-greatest-invention-on-record_72578
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Appleton, Victor
+    gutenberg_agent_id: '267'
+    url: http://www.gutenberg.org/2009/agents/267
+    wikipedia: https://en.wikipedia.org/wiki/Victor_Appleton
+description: ''
+gutenberg_issued: '2024-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72578'
+language: en
+pgterms:marc905: 20230108061606appleton
+pgterms:marc906: '1928'
+pgterms:marc907: US
+production_note: Delphine Lettau, Greg Weeks, Cindy Beyer, Mary Meehan & the online
+  Distributed Proofreaders Canada team at http://www.pgdpcanada.net
+publication_note: '  $aNew York, NY :$bGrosset & Dunlap, $c1928.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Tom Swift and his talking pictures : $b The greatest invention on record'
+url: http://www.gutenberg.org/ebooks/72578
