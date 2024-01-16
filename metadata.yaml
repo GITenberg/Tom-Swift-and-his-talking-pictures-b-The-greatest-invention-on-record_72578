@@ -1,5 +1,8 @@
 _repo: Tom-Swift-and-his-talking-pictures-b-The-greatest-invention-on-record_72578
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 72578-h/images/cover.jpg
 creator:
   author:
     agent_name: Appleton, Victor
@@ -7,6 +10,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/267
     wikipedia: https://en.wikipedia.org/wiki/Victor_Appleton
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72578#Tom-Swift-and-his-talking-pictures-b-The-greatest-invention-on-record
 gutenberg_issued: '2024-01-01'
 gutenberg_type: Text
 identifiers:
